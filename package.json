@@ -1,0 +1,20 @@
+{
+  "name": "cellocator-decoder",
+  "version": "1.0.0",
+  "description": "Cellocator decoder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cellocator",
+    "decoder"
+  ],
+  "author": "Jose Damian <jlds161089@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "convert-base": "^0.1.0",
+    "require-dir-all": "^0.4.10"
+  }
+}
